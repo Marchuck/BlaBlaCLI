@@ -2,15 +2,13 @@
 command line interface to ease filtering data regarding transportation groups on facebook
 
 
-#setup
+# setup
 
 `npm install fbgraph --save`
-
 `npm install commander --save`
-
 `npm install -g`
 
-#usage
+# usage
 
 `blabla --destination Kraków --limit 100 <facebook_access_token>`
 
